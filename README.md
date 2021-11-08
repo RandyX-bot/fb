@@ -17,4 +17,4 @@ $ git clone https://github.com/RandyX-bot/fb
 
 $ cd fb
 
-$ python crack.py
+$ python2 crack.py
